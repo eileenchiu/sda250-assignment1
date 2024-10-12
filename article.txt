@@ -1,0 +1,254 @@
+Americans are increasingly turning to social media for political information, with approximately two-thirds of American adults accessing news through social media (Shearer and Gottfried 2017).
+However, the social nature of this information-sharing can have negative consequences, such as exposure to fake news (Lazer et al. 2018; Vosoughi et al. 2018), information distortion (Carlson 2018), and a false confidence in issue-based knowledge (Anspach et al. 2018).
+By accessing news articles on social media, individuals expose themselves to a subset of news that has been filtered by their social connections.
+Moreover, individuals are able to insert their own commentary on the news articles they post, commentary that may or may not be accurate.
+Given that the average social media user only clicks on about 7% of the hard news content in his or her News Feed (Bakshy et al. 2015), and that social media audiences are most likely to read posts endorsed by their social networks (Anspach 2017; Messing and Westwood 2014), the social commentary added to news articles might be an important source of (mis)information that has gone underexplored by political scientists.
+In this paper, we use a survey experiment to evaluate the consequences of information disparities between news articles’ content and social media comments.
+Specifically, we randomly assign individuals to read a full news article, a news article preview (as found in Facebook’s News Feed), or a news article preview with misinformative social commentary attached.
+An important feature of our experimental design is that we developed our treatments to mirror real-world social media posts based on an analysis of over 11,000 Facebook and Twitter posts.
+We show that individuals in the social commentary conditions are more misinformed about the featured topic, tending to believe the factually-incorrect information relayed in the comments instead of the correct information embedded within the article preview.
+Our results illuminate another potential source of misinformation on social media, above and beyond the spread of “fake news.”
+We show that social media have the potential to facilitate the spread of inaccurate information even if the linked news sources are accurate.
+This suggests that efforts to combat misinformation online need to focus more broadly than just filtering out deliberately fake news sources.
+In traditional media contexts, individuals typically opt into the information environment in order to receive the media’s messages.
+However, most individuals are not interested in hard news (Prior 2005, p. 581), and because it is increasingly easy to avoid political news in favor of entertainment options (Prior 2005, 2007), traditional media effects are weakest for those uninterested in politics (Arceneaux and Johnson 2013; Levendusky 2013; Zaller 1992).
+Simply put, political news does not influence most individuals because they rarely receive such information in the first place.
+However, social media differ notably from traditional media types in that they facilitate inadvertent exposure to political news.
+One estimate suggests that 78% of Facebook users who read news on the site do so when logged on for other reasons (Mitchell et al. 2016).
+Thus, much as individuals can be exposed to political content as they turn their newspapers to the Sports section (Popkin 1994), individuals seeking entertainment and social interaction on Facebook might also be exposed to political information.
+In contrast to those who select into consuming political news, those who are unintentionally exposed to political information on social media could be exposed to a variety of perspectives (see Stroud 2011).
+Because inadvertent exposure is a common pathway to counter-attitudinal information (Brundidge 2010), it should not be surprising that exposure to political difference occurs regularly on social networking sites (Bakshy et al. 2015; Fletcher and Nielsen 2017; Kim et al. 2013).
+Furthermore, even those uninterested in politics encounter political news that they may avoid in traditional media contexts.
+In fact, social media effects are strongest among those least interested in politics (Feezell 2017; Valeriani and Vaccari 2016), a finding consistent with traditional media effects literature (Arceneaux and Johnson 2013; Zaller 1992).
+Engagement with political news on social media has clear benefits.
+Bode (2016) finds that active engagement with news posts leads to political learning, while others similarly find that even the brief article previews that appear in Facebook users’ News Feeds can inform audiences (Anspach et al. 2018).
+Engagement with political news on social media is also associated with deeper cognitive elaboration (Oeldorf-Hirsch 2017) and greater civic engagement (Kim et al. 2013).
+These studies, however, assume the political news encountered on social media is factually correct.
+Engagement with misinformation and so-called fake news, on the other hand, could have a deleterious effect in a representative democracy.
+Misinformation may limit citizens’ abilities to engage in democratic discourse with one another (Muirhead 2013; Mutz 2006; Shapiro and Bloch-Elkon 2008) and misinformed voters may hold irrational attitudes (Hochschild 2001; Kuklinski et al. 2002), causing them to vote incorrectly (Bartels 2002; Lau and Redlawsk 1997).
+Social media provides a new opportunity for the spread of misinformation.
+Because social media do not adhere to the journalistic norms of mainstream news outlets, sites like Facebook and Twitter are rife with misinformation.
+A Pew Research Center report found that over half of U.S. adults see inaccurate news often, while a third of adults report seeing “completely made up” news regularly (Barthel et al. 2016, p. 7).
+While the Pew report centers on all online news, not just social media news, Allcott and Gentzkow’s (2017) analysis of the 2016 election shows that 42% (a plurality) of web traffic to fake news sites came from links shared on social media.
+In contrast, social media links only accounted for 10% of the traffic to legitimate news sites (222).
+Facilitating a two-step flow of communication (Katz and Lazarsfeld 1955) for the 21st century, social media allows anyone to become an opinion leader.
+Individuals who share political news via social media consider themselves highly influential and actively try to persuade others (Weeks et al. 2017).
+This holds true for misinformation as well, as Pew Research Center estimates that 23% of adults have shared fake news, whether they were aware of it at the time or not (Barthel et al. 2016, p. 8).
+Indeed, evidence from Twitter indicates that false news stories diffuse faster than the truth (Vosoughi et al. 2018), and that users are more likely to circulate false information than to correct misinformation (Shin et al. 2017).
+The dissemination of misinformation through social media is especially problematic, as social media audiences are more likely to engage with political news that has been shared by a close friend or family member (Anspach 2017), and to trust news when it is shared by such opinion leaders (Turcotte et al. 2015).
+In an age of declining trust in mainstream news, audiences may turn to social media opinion leaders to vouch for content.
+However, audiences may have trouble identifying whether their Facebook friends meet the criteria for good opinion leadership: sharing their preferences and being more knowledgeable (Downs 1957; Lupia and McCubbins 1998).
+Indeed, individuals are not always able to accurately identify expertise in their discussion networks (Ryan 2011).
+Even more problematic, audiences may have difficulty distinguishing legitimate information from fabricated, especially if they receive misinformation from multiple sources (DeMarzo et al. 2003; Enke and Zimmermann 2017).
+This misinformation herding (see Eyster and Rabin 2010) may partially explain why only 39% of U.S. adults are very confident in their ability to recognize fake news (Barthel et al. 2016, p. 6).
+To better understand the role of misinformation on social media, we next analyze how the comments attached to posted news articles differ from the content of those articles.
+Research conducted by Garrett et al. (2016) suggests that while biased media outlets do not necessarily hide evidence that undermines their preferred narratives, they do promote misunderstandings of unfavorable facts.
+Although insightful, the authors’ analysis does not consider whether or how typical social media users may also misrepresent factual information.
+Even when users share links to news articles, they can supplement the articles with their own commentary.
+Ideally this commentary is factual and based on the true information in the article, but it is plausible that this user generated content is biased or inaccurate (Carlson 2018).
+Nationally representative survey data suggests that 38.2% of Facebook users have posted a status update containing their political views in their own words, 24.4% have shared and 18.3% have commented on a news article about an election, campaign, or politics in general (Settle 2018).
+Given these numbers, we sought to better understand how news articles’ facts and social media commentary might diverge.
+Doing so allows us to design an externally-valid experiment that mirrors the actual misinformative commentary made on real social media platforms.
+In this exploratory observational analysis, we focus on comments about an ABC News/Washington Post poll measuring President Trump’s approval rating 6 months into his presidency.
+Presidential approval polls are often newsworthy, particularly in the early stages of an administration, with the 6-month mark serving as a good benchmark one-eighth into the presidential term.
+In this context, President’s Trump’s 36% approval rating was especially noteworthy as it represented the lowest 6-month approval of any president dating back 70 years.
+Presidential approval polls also have important implications for political behavior.
+First, presidential approval is closely connected to vote choice (Fiorina 1981; Mutz 1998; Sides and Vavreck 2012), such that when presidential approval is high, individuals are more likely to support the incumbent (or the incumbent’s party).
+Polls can serve as a viability heuristic (Lau and Redlawsk 1997; 2001), signaling to voters the extent to which the public considers the politician to be doing well, perhaps worthy of reelection.
+Therefore, if social commentary misrepresents Trump’s polling numbers, the downstream effects may cause voters to arrive at incorrect conclusions regarding Trump’s success in office or his viability when seeking another term.
+Second, within the context of the 2016 election and the Trump administration, there has been increased attention paid to the validity of polls.
+President Trump himself has questioned the accuracy of polls, calling them out on Twitter as fake or biased.
+In February 2017, Trump tweeted that “Any negative polls are fake news, just like the CNN, ABC, NBC polls in the election.”
+Trump also regularly inflates his numbers, such as when he characterized a Rasmussen poll placing his approval rating at 44% as “around 50%.”1
+Trump’s attacks on the polls, and on the media outlets who administer and report them, have contributed to an environment where a Harvard–Harris poll2 around the time of Trump’s 6-month mark estimated that 65% of voters believed there to be a lot of fake news in the mainstream media.
+In order to conduct our analyses comparing news article content to social media commentary, we first used Crimson Hexagon3 to search for all public Facebook and Twitter posts that mentioned “Trump,” and also used at least one of the following words: “poll,” “polling,” “polls,” “approve,” or “approval” between July 10 and July 25, 2017.
+We restricted our search to posts written in English, but did not impose any other restrictions, such as location, author interests, or gender.
+From these results, we downloaded a random subset of 9722 unique posts.
+Of these posts, 8063 (82.9%) also included a link to another website.
+What is unclear, however, is whether the commentary included in the posts accurately represented the nature of Trump’s approval ratings at the time.
+While the commentary may simply be a summary of the linked article, it may also serve to misrepresent the facts of the situation or to criticize the information contained in the link.
+An analysis of the Crimson Hexagon data indicates some misrepresentation occurred, as the word “fake” was used 557 times, “fake news” 161 times, and “fake polls” 117 times.
+In addition, the hashtags #fakepolls and #fakenews appeared 46 and 73 times, respectively.
+Still, these data provide an incomplete picture of whether and how social media users add misinformative commentary when sharing political news articles.
+To further understand this phenomenon, we analyzed all public Facebook shares of five different mainstream news articles about Trump’s 6-month numbers.4
+Specifically, we coded each share for whether it included commentary added by the poster, as well whether that commentary attempted to misrepresent the veracity of the ABC News/Washington Post poll cited within the articles.
+As Table 1 shows, approximately 21% of all public shares included added commentary, and almost 17% of those comments were misinformative.
+Even if these numbers are relatively small, Bernstein et al. (2013) show that Facebook users underestimate the size of the audience of their posts, suggesting that even if a relatively small percentage of Facebook users misrepresent or question facts, such misinformation could have a widespread reach.
+For context, Table 2 provides examples of social commentary from the Facebook shares, as well as cosine similarity scores (Conover et al. 2011) representing the similarity of the commentary to the content of the shared article.
+Cosine similarity is bounded between 0 and 1, where 1 indicates that the two documents use identical words and 0 indicates that there are no common words between the two documents.
+Importantly, cosine similarity is independent of document length.
+As Table 2 shows, it seems that Facebook users sometimes misrepresent the spirit of the linked articles by editorializing their news posts.
+In this case, we observe social media users injecting their own challenges to political polls, much like President Trump did when these numbers were released.
+The misinformative posts shown in Table 2 serve as models for our survey experiment, improving the external validity of our treatment posts.
+Having shown some of the ways in which social media commentary differs from news articles in the real world, we next turn to investigating the impact of these informational disparities.
+Previous research indicates that the information contained in article previews found in Facebook’s News Feed is sufficient for learning to occur, even if the informational gain is limited (Anspach et al. 2018).
+If social media audiences attend to article previews enough to learn, then it stands to reason they would also pay attention to social commentary attached to those previews.
+But what if those two sets of information—the news article preview and the social commentary—include contradictory facts?
+Encountering two divergent pieces of information in a single post may create cognitive dissonance for the audience.
+This tension may cause uncertainty within the readers, and cause them to question the veracity of either piece of information.
+This uncertainty can influence the subjective evaluations of the featured media outlet, the person commenting on the post, or in our case, in political polls generally.
+In a situation of competing pieces of information, audiences may regard all involved as less credible than in a situation of consistency.
+This gives us the first of our hypotheses:
+H1a When encountering opposing reports of political polls from a news outlet and from a social media poster, audiences will regard the news outlet as less trustworthy.
+H1b When encountering opposing reports of political polls from a news outlet and from a social media poster, audiences will regard the poster as less trustworthy.
+H1c When encountering opposing reports of political polls from a news outlet and from a social media poster, audiences will regard the polls as less trustworthy.
+When misinformation is presented without any opposing factual information, we expect individuals will recall that misinformation as accurate (H2).
+That is, we suspect audiences to be more likely to be misled when they are not exposed to any corrections to misinformation.
+Without any rebuttal contradictory evidence, audiences likely have little reason to doubt the misinformation’s veracity.
+To test this, our experiment includes misinformation about alleged flaws of the ABC News/Washington Post poll, but no factual information about such flaws.
+Though the treatment article does not mention who was included in the poll’s sample, our misinformative commentary conditions claim that the poll oversampled either Democrats or Republicans.
+The article preview shown in these conditions makes no mention of the poll’s flaws, thus setting up a test in belief in misinformation absent any contradictory factual information (H2).
+H2 In the absence of contradictory factual information from a news article, individuals exposed to misinformative social commentary will be more likely to report that misinformation as correct.
+But what about when two pieces of information dispute one another?
+Though we expect audiences to trust all involved in a situation of conflicting information less, the question of which set of “facts” the audience would report as accurate remains.
+On one hand, we might expect individuals to recognize that information in news articles has been vetted for accuracy by a professional outlet, and that they should therefore regard the information within the article preview as more trustworthy than comments challenging that information.
+A 2014 American Press Institute survey suggests that individuals trust information they obtain from traditional news outlets far more than they trust information obtained from social media—the least trusted news source (American Press Institute 2014).
+Individuals should be more likely to learn information from sources that they trust, such as traditional news outlets compared to social commentary, especially if the social commentary comes from strangers instead of a close social connection (Anspach 2017).
+On the other hand, social commentary may serve as a substitute for reading an entire article.
+Social media audiences may see misinformative commentary not as misleading, but as providing additional factual information that is included in the full article, but not in the article preview.
+If so, they may regard the commentary as consistent with the news article, even when it is not.
+Additionally, social media audiences may read a poster’s comments, but not the article preview, assuming the commentary is a summary of the article itself.
+Finally, research also indicates that trust in social media news increases when the news is shared by an opinion leader (Turcotte et al. 2015), suggesting that individuals place more authority in those who post news, instead of those outlets that produce it.
+Given the current level of distrust in mainstream media outlets, and the growing evidence of the importance of the social aspect of social media (Anspach 2017; Messing and Westwood 2014; Turcotte et al. 2015), we expect audiences to place more credence in factually-incorrect comments made by the poster than in the correct information included in the article preview (H3).
+H3 In the presence of contradictory factual information from a news article, individuals exposed to misinformative social commentary will be more likely to cite the misinformation as correct than the information from the article.
+Such belief in misinformation may be a result of individuals’ tendency to engage in directional motivated reasoning.
+Some individuals are psychologically motivated to reach certain conclusions (Kunda 1990), causing partisans to selectively learn information that is consistent with their worldviews (Jerit and Barabas 2012).
+This motivated learning occurs when individuals receive their news mostly from pro-attitudinal news sources (Stroud 2011) or partisan elites (Pasek et al. 2015), or when individuals expend fewer cognitive resources verifying pro-attitudinal news than they do undermining counter-attitudinal information (Lord et al. 1979; Taber and Lodge 2006).
+Individuals are more likely to accept information that is consistent with their prior beliefs than information that contradicts those beliefs, even if that information is factually inaccurate (Eriksen et al. 2017; Kunda 1990; Levendusky 2013; Nyhan and Reifer 2010; Redlawsk 2002; Garrett et al. 2016; Zaller 1992).
+While most research on motivated reasoning and belief in misinformation focuses on news reports, there is no theoretical reason why it should not also apply to the commentary attached to social media posts.
+Thus, we expect self-identified Republicans to be more likely to accept misinformation that suggests Trump’s approval rating is higher than reported, and for Democrats to be more likely to believe misinformation suggesting that Trump’s approval rating is lower (H4).
+H4 Individuals exposed to pro-attitudinal misinformative social commentary will be more likely to cite that misinformation as accurate than individuals exposed to counter-attitudinal social commentary.
+To test the above hypotheses, we implement a survey experiment that features a post of a Yahoo! News article about Donald Trump’s 6-month approval ratings.
+In some conditions, the post also includes misinformative social media commentary that challenges the ABC News/Washington Post poll cited in that article.
+Using this specific Yahoo! News article has its advantages.
+Though Trump has been known to attack certain news networks he sees as hostile to his administration, to our knowledge, he has yet to criticize Yahoo! News.
+Additionally, Yahoo! News is considered a moderate and unbiased outlet, according to Budak et al.’s (2016) estimates.
+Finally, we sought an article whose Facebook preview included an appropriate amount of factual information to give participants the opportunity to learn from the preview.
+In the experiment, we randomly assign subjects to one of four conditions:
+(1) a full article condition, in which subjects read the entire Yahoo! News article,
+(2) a post containing the preview of the Yahoo! News article, as it would appear on Facebook’s News Feed,
+(3) a post containing the article preview, with commentary attached that suggests that Trump’s approval rating is higher than reported in the preview,
+or (4) a post containing the article preview, with commentary attached that suggests that Trump’s approval rating is lower than reported in the preview.
+We refer to these conditions as the full article, article preview, conservative commentary, and liberal commentary conditions, respectively.
+Although forced-exposure designs can overestimate media effects (Arceneaux and Johnson 2013), the social media context mitigates some of these concerns.
+Unlike television or newspapers, where exposure to information is usually the result of a purposive act, social media users may encounter news incidentally (Bode 2016; Karnowski et al. 2017; Kim et al. 2013; Mitchell et al. 2016; Oeldorf-Hirsch 2017).
+In this environment, even those uninterested in politics regularly receive (and are influenced by) political information (Feezell 2017; Valeriani and Vaccari 2016).
+Centering our experiment around polling information has its advantages.
+As mentioned earlier, presidential approval can have strong effects on political behavior (Lau and Redlawsk 2001; Mutz 1998).
+Additionally, from a measurement perspective, using presidential approval polls gives us the ability to easily distinguish correct responses from incorrect.
+While there are many topics and policy areas about which one could become misinformed, it is more difficult to reliably measure accuracy on more complex topics.
+With this approach, we can simply measure what individuals think the president’s approval rating is and compare it directly to the actual number described in the poll, eliminating the need for us to provide a subjective assessment of whether a response is correct.
+The Yahoo! article indicated that Trump’s approval rating was at 36% according to the ABC News/Washington Post survey, the lowest of any president 6 months into his presidency.
+The article included a tweet by the president, which called the reliability of the poll into question, claiming that ABC News/Washington Post polls were “just about the most inaccurate poll around election time.”
+Those who were randomly assigned to the full article condition received this entire article.
+Our remaining three conditions featured Facebook article previews of the Yahoo! article.
+As illustrated in Fig. 1, participants in the Facebook preview condition were shown the article headline, an image, and a few sentences summarizing the article, importantly including that President Trump’s approval rating was 36%.
+However, in the two social commentary conditions, participants were shown the article preview with commentary added by the fictitious person who posted the article, and a comment made in agreement by a second fictitious person.
+We deliberately chose ambiguous, gender-neutral names and profile pictures to allow participants to infer characteristics of the posters on their own.
+The conservative commentary condition suggested that the poll was biased against President Trump because it included more Democrats than Republicans, and that after correcting for this, the actual approval rating was 49% instead of 36%.
+The liberal commentary, on the other hand, argued that the poll was biased in favor of President Trump because it sampled more Republicans than Democrats, and that the correct approval rating was actually 23%.
+Both the conservative and liberal commentary conditions included the #fakepolls hashtag, and a second hashtag to reinforce the idea of partisanship.
+The conservative commentary also included the #MAGA (Make America Great Again, President Trump’s campaign slogan) hashtag, while the liberal commentary included the #notmypresident hashtag, which has been adopted by the liberal community protesting President Trump’s election.
+Notably, all four conditions included information about Trump’s approval rating (36%), but only the misinformative conditions suggested a “more accurate” polling number.
+Therefore, the two misinformative conditions had competing pieces of information: the actual approval rating presented by the Yahoo! News article preview, and the inaccurate approval rating communicated by the person sharing the article.
+The goals of the experiment are to determine whether opposing pieces of information lower the credibility of those involved (H1), and which pieces of information audiences view as accurate (H2 and H3), and why (H4).
+We recruited a sample through Amazon’s Mechanical Turk platform, which provides workers willing to perform online tasks in exchange for a specified payment.
+Replication studies have shown that MTurk samples perform as well as traditional samples (Berinsky et al. 2012; Buhrmester et al. 2011; Paolacci et al. 2010) and are more representative of the population than typical student convenience samples (Berinsky et al. 2012).
+Particularly with experiments that do not require substantial “buy in” from the participants, MTurk samples often produce similar results as nationally representative samples (Krupnikov and Levine 2014).
+Additionally, because we are interested in behaviors associated with social media, MTurk’s online participants provide an especially useful way to measure the effects of misinformation on an Internet audience.
+We paid respondents $1.00 each, a rate higher than typical for behavioral experiments deployed through the platform (Mason and Suri 2012).
+After eliminating subjects who failed an attention-check question, our sample contained 954 subjects (see Online Appendix for descriptive statistics).
+We randomly assigned those subjects to one of our four experimental conditions in which they receive the (mis)information about Trump’s approval rating.
+Following that exposure, all subjects were given multiple-choice questions that served as measures for our dependent variables.
+To test our first set of hypotheses, we asked respondents to evaluate the trustworthiness of the person who posted the article, the news outlet that published the article, and the poll cited within the article on a 5-point Likert scale, with higher values indicating more trust.
+To measure the dependent variables for the misinformative capabilities of social media commentary (H2 and H3), we asked subjects to identify what percentage of Americans approve of President Trump’s performance from a set of five choices and what (if any) flaw existed in the poll.
+Finally, to test whether motivated reasoning plays a role in choosing which information to believe on social media, we coded subjects as exposed to pro-attitudinal misinformation (1) or not (0).
+In other words, self-identified Democrats in the liberal condition and self-identified Republicans in the conservative condition are coded as receiving pro-attitudinal misinformation, while Democrats in the conservative condition and Republicans in the liberal condition are coded as zeroes.
+In testing H4, self-identified Independents are excluded from the analysis, creating a soft test for motivated reasoning; only partisans are included in the analysis.
+The full survey used for these measures can be found in the Online Appendix.
+Before evaluating how misinformation influences audiences, we first present a manipulation check intended to confirm that subjects in the social commentary conditions recognized that the commentary attached to the article previews was indeed ideologically slanted.
+This check provides context for the interpretation of later results.
+If subjects fail to recognize that the attached commentary has a bias, subjects may regard the commenters as more trustworthy.
+On the other hand, if subjects recognize the bias of the posters, yet still find those comments more credible than the information relayed by the news outlet, it would speak volumes of the general distrust towards mainstream news outlets, and of the potential for social media opinion leaders to (mis)inform audiences.
+We find this latter situation to be the case, as subjects perceived our experimental commentary treatments as expected: posters who shared the article without any commentary were considered “moderate,” on a 5-point Likert scale ranging from 1 to 5 (mean=2.34), while posters alleging a pro-Republican bias were considered more liberal than the uncommented post (mean=2.08, p<0.05), and posters alleging an anti-Trump bias were considered more conservative than the uncommented post (mean=3.43, p<0.05).
+This perceived bias may explain the lack of trust that subjects have towards posters who inject partisan commentary onto the articles they share.
+Table 3 displays the results of OLS regressions on trust, testing our first set of hypotheses which predict that contradictory pieces of information lower audience trust (measured as a 5-point Likert response) in the news outlet, the person who posted (and in some cases, commented upon) the article, and the poll in question.
+We use those in the full article condition as a baseline when comparing the effects of Facebook previews and social commentary.
+Because balance tests reveal imbalances between assignment conditions for several theoretically-relevant variables, we conduct two versions of each analysis: one with just our treatment effects and one which includes those relevant covariates.
+The first models show changes in trust in the news outlet that published the article, Yahoo! News (H1a).
+Exposure to an uncommented preview of the article did not lower trust in Yahoo! News, but misinformative commentary in both the liberal and conservative directions lowered the outlet’s credibility in the eyes of the audience.
+The second models compare the level of trust in the journalist who wrote the Yahoo! News article for the full article condition, to the level of trust in the person posting the article in the Facebook conditions (H1b).
+It is perhaps unsurprising that subjects trust a stranger on social media less than a journalist from a legitimate news organization, but these results will become more important in the context of belief in misinformation.
+The final models assess how the treatments influence trust in the ABC News/Washington Post poll (H1c).
+Here again, subjects in the plain preview condition demonstrate the same statistical level of trust as those reading the full article, but subjects exposed to contradictory commentary are more likely to question the veracity of the poll.
+The full article included a tweet in which President Trump suggested the poll was inaccurate because it did not predict the 2016 election.
+The misinformation conditions suggested that the poll oversampled Democrats or Republicans.
+The plain article preview condition did not include any information about potential flaws of the poll.
+As H1a, H1b, and H1c predict, contradictory pieces of information lower audience trust in all three domains.
+When social media commentary challenges the information in a news article preview, audiences not only question the accuracy of the content of the article, but also regard both the news outlet and the poster as less trustworthy.
+As our observational analyses demonstrated, social media commentary regularly diverges from the content of news articles, suggesting an environment where audiences are unable to determine which pieces of information are accurate, thus lowering the perceived credibility of all involved.
+With subjects recognizing the ideological bias in the commentary attached to the news article about President Trump’s approval rating, we might expect subjects to discount any information contained within that commentary.
+However, if biased information is the only information available, audiences may default to reporting such material even after recognizing its partisan leanings.
+Such is the case in our experiment, regarding alleged flaws of the ABC News/Washington Post poll; though the social media commentary charged the poll with sampling either more Republicans or Democrats, the article’s preview made no mention of any such flaws.
+Table 4 shows the percentage of respondents in each treatment group that reported each flaw of the poll.
+The results suggest that despite recognizing the biased nature of the posters’ comments, subjects were most likely to cite the alleged flaws mentioned in those biased commentaries, indicating strong support for H2.
+While it may not be surprising that individuals report the only information available to them, it is worth noting that a “Don’t know” option was available.
+In fact, most subjects in the plain article condition selected this “Don’t know” option, but those in the misinformation conditions eschewed this option in favor of information they perceived to be coming from a biased individual.
+The full logit regressions showing the treatment effects on the likelihood of citing each flaw are located in the Online Appendix.
+Misinformation about flaws of the poll was only available in the commentary conditions; with limited information available, it may not be surprising that subjects reported that misinformation when asked.
+But what happens when a social media post includes both factually correct information alongside the misinformation, especially when the sources of both are considered untrustworthy (see Table 3)?
+Our experiment pitted factual information about Trump’s approval rating against misinformation about his numbers.
+Two experimental conditions (the full article and the plain article preview conditions) only featured Trump’s actual approval rating: 36%.
+The two misinformative conditions included the 36% number embedded within the article preview, but also included misinformative commentary suggesting that the approval rating was actually either 23 or 49%.
+H3 predicts that subjects will either discount or ignore the information in the article preview, instead citing the incorrect numbers from the commentary as the correct approval rating.
+A full 84% of subjects assigned to the full article condition accurately identified Trump’s approval rating at the 6-month mark.
+Though the full logit results can be found in the Online Appendix, Fig. 2 summarizes the response rates for the other experimental conditions.
+Despite the limited information contained in Facebook previews, social media audiences are able to glean enough for accurate recall; similar to the full article condition, 85% of those assigned to the plain article preview condition accurately reported Trump’s approval rating.
+However, adding misinformative commentary to article previews reduces the ability of audiences to gauge which information is correct.
+While 85% of subjects in the plain article condition accurately identified Trump’s approval rating, misinformative commentary caused the percentage of subjects selecting the correct approval rating to drop to 49% in the conservative condition and to 36% in the liberal condition.
+This reduction is reflected by increases in the selection rates of the approval rating numbers mentioned in the misleading commentaries.
+As Fig. 2 shows, subjects in the liberal commentary condition were most likely to report 23% as Trump’s actual approval rating—the same number mentioned in the commentary.
+Similarly, the subjects most likely to report Trump’s approval rating as 49% were those who were assigned to the conservative commentary condition.
+Together, these results demonstrate strong support for H3: when exposed to opposing pieces of information, social media audiences are much more likely to cite the (mis)information communicated in the comments as more accurate than the information contained within the article previews.
+Does partisan motivated reasoning drive these results?
+Though the literature is rife with evidence indicating that partisans are likely to accept pro-attitudinal information uncritically while discounting counter-attitudinal information, we are surprised to find no evidence that motivated reasoning drives the results presented above.
+If motivated reasoning is responsible for subjects’ tendency to choose misinformation, we would expect subjects in the pro-attitudinal misinformation conditions (that is, Democrats in the liberal condition or Republicans in the conservative condition) to be more likely to regard the inaccurate approval numbers as factually correct.
+In other words, Democrats should be more likely to believe Trump’s approval rating was 23%, while Republicans should be more likely to cite the 49% number.
+However, a difference-of-proportions test indicates that the partisan direction of the misinformative commentary has no significant effect on the likelihood of believing that misinformation.
+Excluding self-identified independents from the analysis, we compare the proportion of subjects who received pro-attitudinal misinformation (i.e., Democrats in the 23% condition or Republicans in the 49% condition) that cited the incorrect approval rating highlighted by the misinformative commentary to the proportion of subjects who received counter-attitudinal misinformation (Democrats in the 49% condition or Republicans in the 23% condition) who did the same.
+Though the proportion of subjects citing the incorrect poll number in the pro attitudinal misinformation group (0.47, SE=0.037, n=178) is actually smaller than the proportion of subjects citing the wrong poll number in the counter-attitudinal misinformation group (0.56, SE=0.039, n=162), the difference between the two is statistically indistinguishable (z=1.54, p=0.12).
+Thus, we find no support for H4.
+In this paper, we present evidence that the comments attached to news articles posted on social media differ from the articles themselves, sometimes directly challenging the articles’ main points.
+More importantly, we demonstrated the impact of these differences by showing that individuals are more likely to pay attention to information communicated in the social commentary than the news article previews, even if that information is false, and even if that information is biased against one’s prior partisan beliefs.
+What drives these results?
+According to a 2016 Gallup poll, trust in news outlets is at an all-time low, with less than a third of Americans reporting a great deal of trust in mass media.
+This may be a result of the proliferation of so-called “fake news” sites, but we have shown that misinformation on social media is not limited to dubious media sources.
+The social commentary that individuals include as they share real news articles can also contribute to this increasing problem of misinformation.
+However, it is important to note that social media audiences approach news shared through social media with a certain level of distrust.
+Our results indicate that audiences generally trust those who share news on social media less than the journalists who produce such news (Table 3), a finding consistent with survey research by Pew (Bialik and Matsa 2017) and Gallup (Gallup Inc., 2018, p. 19).
+Yet, despite this distrust, we found evidence that social media audiences are more likely to cite information provided by social media posters as accurate than the information contained in article previews, which has been vetted by news organizations.
+What explains this contradiction?
+For one, though audiences distrusted our fictional posters less, the posters were not regarded as entirely untrustworthy; the mean trustworthiness score for posters in the liberal and conservative conditions was 2.97 and 2.69 (on a 1–5 Likert scale), respectively.
+Recent research indicates that audiences can overcome their distrust of the Internet when evaluating online opinions (Metzger et al. 2010), especially if strangers’ opinions are endorsed by others (Chaiken 1987; Sundar 2008) or if they reduce the cognitive load required to evaluate new information (Hilligoss and Rieh 2008; Pirolli 2005).
+In our case, the perceived trustworthiness of poster, Yahoo! News, and of the ABC News/Washington Post poll had insignificant effects in our covariate models (Table A4 in Online Appendix).
+Additionally, we surmise that audiences might not view the article preview and attached comments as contradictory pieces of information, but complementary.
+If audiences forgo reading the entire article, they may view commenters as having additional information that they (the audience) do not possess.
+In other words, audiences may not actively choose to believe social media commentary as more credible than article preview information, but instead fail to recognize that any tension exists in the first place.
+While these results challenge us to think more critically about the role of social media in misinformation, our studies are not without their limitations.
+First, our analyses only explore one issue area.
+While we argue that studying misinformation about presidential approval polls is important, it is unclear whether these results will generalize to other issue areas, particularly those that have not been under as much scrutiny as polling.
+Individuals could be less susceptible to socially supplied misinformation on topics that have not had their validity widely questioned.
+Similarly, we might find different results using a news article from partisan media (e.g., Fox, MSNBC) or an unbiased, but sophisticated outlet, such as Reuters.
+Turning to the experiment, one potential concern is that participants viewed a post made by a stranger instead of someone in their own online networks.
+Despite the fact that many connections on social media are between individuals who know one another, we argue that our use of fictional individuals largely maintains external validity.
+It is not uncommon to see comments made by strangers on most social media platforms.
+This may occur when a friend of a friend comments on a post, or when viewing public posts made by news organizations.
+In fact, our observational analyses included over 10,000 public social media comments, all of which could be viewed by strangers.
+While encountering social commentary from strangers may be relatively common, it is less clear whether misinformative commentary from strangers should be more or less influential than that of our friends.
+There are reasonable arguments in the extant literature that using unknown social media posters could lead us to both over- and underestimate the true effect of misinformative commentary.
+On one hand, audiences might not know strangers’ levels of political expertise, which could make it difficult to discount their claims (Lupia and McCubbins 1998), especially if multiple strangers share the same misinformation (DeMarzo et al. 2003; Enke and Zimmermann 2017; Eyster and Rabin 2010).
+Strangers’ posts, then, may have more influence than those coming from our own network, especially if we know our network to be biased.
+On the other hand, our results stemming from fictional individuals’ comments may underestimate misinformative commentary’s real-world effects, as social media endorsements are known to be stronger coming from friends or family (Anspach 2017).
+Though we suspect this to be the case, we encourage further research into the differing effects of friends’ and strangers’ social media activity.
+The findings we present here serve to diagnose yet another problem with the largely unregulated flow of social information online.
+While we cannot prescribe a solution to this problem, we encourage scholars to further consider ways in which we can increase the public’s ability to identify inaccurate information online.

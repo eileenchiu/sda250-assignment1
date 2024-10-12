@@ -1,1 +1,0 @@
-# sda250-assignment1
